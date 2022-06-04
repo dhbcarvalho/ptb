@@ -22,8 +22,7 @@ $$$ ptb
 &&PTB
 &&&PTB
 [PTB
-[[PTB
-[[[
+[[
 
 
 
