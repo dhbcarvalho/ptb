@@ -16,4 +16,3 @@ $$$ ptb
 || PTB
 ||| PTB
 *PTB
-*
